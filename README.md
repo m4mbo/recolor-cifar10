@@ -1,4 +1,4 @@
-# Generative-Colourization-Approaches-to-CIFAR10
+# Generative_Approaches_to_CIFAR10_Colourization
 This repository showcases two approaches to the coulourization task of CIFAR10 images: Auto Encoder U-Net and Conditional GANs.
 
 ![image](https://github.com/M4mbo/Generative-Colourization-Approaches-to-CIFAR10/assets/115642529/0e01f3af-3d12-4d28-981d-7041f209c4d5)
